@@ -23,5 +23,11 @@
   "homepage": "https://github.com/pedroclayman/totaljs.playground#readme",
   "dependencies": {
     "total.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0"
   }
 }
