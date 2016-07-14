@@ -1,0 +1,23 @@
+{
+  "name": "totaljs.playground",
+  "version": "1.0.0",
+  "description": "totaljs playground: probably nothing useful",
+  "main": "debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroclayman/totaljs.playground.git"
+  },
+  "keywords": [
+    "playground",
+    "totaljs"
+  ],
+  "author": "Peter Mihalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroclayman/totaljs.playground/issues"
+  },
+  "homepage": "https://github.com/pedroclayman/totaljs.playground#readme"
+}
